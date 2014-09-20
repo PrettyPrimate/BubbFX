@@ -1,0 +1,52 @@
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\BubbFX.dll.config
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\BubbFX.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\BubbFX.pdb
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\Antlr3.Runtime.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\Newtonsoft.Json.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.Helpers.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.Mvc.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.Optimization.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.Razor.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.WebPages.Deployment.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.WebPages.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.WebPages.Razor.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\WebGrease.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.Helpers.xml
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.Mvc.xml
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.Optimization.xml
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.Razor.xml
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.WebPages.xml
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.WebPages.Deployment.xml
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\System.Web.WebPages.Razor.xml
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\Antlr3.Runtime.pdb
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\bin\Newtonsoft.Json.xml
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\obj\Debug\BubbFX.csprojResolveAssemblyReference.cache
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\obj\Debug\BubbFX.dll
+c:\users\ange\documents\visual studio 2013\Projects\BubbFX\BubbFX\obj\Debug\BubbFX.pdb
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\BubbFX.dll.config
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\BubbFX.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\BubbFX.pdb
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\Antlr3.Runtime.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\Newtonsoft.Json.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.Helpers.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.Mvc.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.Optimization.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.Razor.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.WebPages.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\WebGrease.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.Helpers.xml
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.Mvc.xml
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.Optimization.xml
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.Razor.xml
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.WebPages.xml
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\Antlr3.Runtime.pdb
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\bin\Newtonsoft.Json.xml
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\obj\Debug\BubbFX.csprojResolveAssemblyReference.cache
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\obj\Debug\BubbFX.dll
+C:\Users\Ange\Documents\GitHub\BubbFX\BubbFX\BubbFX\obj\Debug\BubbFX.pdb
